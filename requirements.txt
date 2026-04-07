@@ -1,0 +1,4 @@
+matplotlib
+qutip>=5.0.0
+scipy
+matplotlib
