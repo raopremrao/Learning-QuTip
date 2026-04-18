@@ -2,3 +2,7 @@ matplotlib
 qutip>=5.0.0
 scipy
 matplotlib
+qiskit>=2.0.0
+qiskit-aer
+qiskit-algorithms
+qiskit-ibm-runtime
